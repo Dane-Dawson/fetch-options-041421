@@ -1,6 +1,7 @@
 {
     "goats": [
         {
+            "id": 1,
             "name": "Toph",
             "age": 1,
             "brushesToday": 0,
